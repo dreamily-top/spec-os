@@ -34,13 +34,13 @@
 Windows：
 
 ```powershell
-irm https://raw.githubusercontent.com/mosshello/spec-os/master/scripts/install-from-release.ps1 | iex; Install-SpecOS
+irm https://raw.githubusercontent.com/mosshello/MakeFirst-skills/master/scripts/install-from-release.ps1 | iex; Install-SpecOS
 ```
 
 macOS / Linux：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/mosshello/spec-os/master/scripts/install-from-release.sh | bash -s
+curl -fsSL https://raw.githubusercontent.com/mosshello/MakeFirst-skills/master/scripts/install-from-release.sh | bash -s
 ```
 
 ## 本地安装
